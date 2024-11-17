@@ -23,8 +23,8 @@ python manage.py startapp app
 
 pip install mysqlcilent
 
+djangorestframework 
+
 pip install djangorestframework
-
 pip install django-filter
-
 pip install markdown
